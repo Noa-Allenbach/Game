@@ -1,1 +1,22 @@
 # Game
+
+## Mage Runner
+Mage Runner ist ein Spiel, dass ich in der 9 klasse als Projektarbeit gemacht habe. Damals konnte man selber ein Projekt auswählen, seine Projekt Idee musste man dann dem Lehrer Präsentieren. Viele nahmen für Ihr Projekt etwas Berufsspeziefisches, so auch ich. Es gab Projekte wie eine Couch selber machen oder selber ein Kleid schneidern. Da ich wusste das ich nächstes Jahr eine Lehre als Informatiker anfangen würde, wollte ich unbedingt irgendetwas Computerspeziefisches machen. Mir kamen Ideen wie selber irgendeine hilfreiche Applikation zu bauen oder irgend ein kleines Programm mit einer Programmiersprache zu bauen und oder etwas mit einem Raspberry Pi zu machen. Ich machte mir Gedanken darüber was wohl am besten funktioniere würde und ich suchte auch im Internet nach Informationen. Da lass ich dann den Begriff Unity. Ich hatte schon vorher etwas von Unity gehört und wusste auch das man damit Computerspiele entwickeln kann. Aber ich dachte immer das Unity nur für vortgeschrittene Programmierer sei. Trotzdem rescheschierte ich dann ein wenig und fand dann heraus das es auch durchaus mit wenig Computer wissen möglich ist ein Spiel zu Programmieren. Da ich schon von Kleinauf kontakt mit verschiedenen Computerspielen wie Super Mario und Pokemon hatte und ich mir manchmal gedanken machte was noch coole zusatzliche funktionen wären, war es natürluch ein kleiner Traum ein eigenes Spiel zu kreieren.
+
+Ich kam dann zu meinem Lehrer und präsentierte Ihm meine Idee. Ich hatte wirklich einen offenen Lehrer er war eigentlich offen für alle Ideen und lehnte selten eine Idee ab.
+So auch meine. Er sagte mir das es eine gute idee ist vorallem etwas herausforderndes, aber ich müsste einen Wirklich guten Zeitplan haben, damit ich auch noch Spielraum habe wenn etwas schiefläuft. und so kam es dann dazu das ich anfing mein eigenes Spiel zu kreieren. 
+
+## Vorgehen
+Ich hatte vor das Spiel mit C# zu schreiben. Das war natürlich eine Herausforderung, da ich vorher noch nie mit C# gearbeitet habe aber trotzdem freute ich mich darauf.
+Ich eignete mir all mein wissen eigentlich über videos und Tutorials an. mein Spiel basiert also eigentlich auf ganz vielen Tutorials die ich zusammmen zu einenm Programm vernetzt habe. da es aber viele verschiedenen Tutoriels waren gab es  manchmal auch probleme, weil die tutoriels manchmal nicht mit einander synegierten und für mich war es natürlich schwer sie so umzubauen das sie mit einander funktionierten. So kam es das ich einege zeilen dead Code habe. Ich hatte zum glück schon von Anfang eine ungefähre Grundidee wie mein Spiel aussehen soll. Es sollte ein Jump and run werden. Ich hatte sehr viele tutorials dazu gefunden und dachte das es auch nicht allzu schwierig ist dies zu entwicklen. Dazu kannte ich sogar einige Plattformer, Jump and Runs die mit Unity Gemacht wurden, darunter auch mein lieblings Spiel.
+
+## Ergebniss 
+Schlussendlich hatte ich ein relativ gut funktionierenden Plattformer. Er hatte zwar ein bischen Input lag und hatte manchmal noch einige Fehler, aber für mein erstes Spiel war ich zufrieden. auch die Grafik die ich komplett selber gemacht hatte gefiel mir. Ich denke diese Projektarbeit hatt mir sicher einiges geholfen und vielleicht mache ich in Zukunft sogar noch ein zweites Spiel.
+
+# Wie Spiele ich das Spiel ?
+Das hier ist wohl der Spannede Teil meines Uploads. Wie dem auch sei jeder der mein Spiel spielen möchte, kann das natürlich auch. Es ist naturlich kein mega umfangreiches Spiel also erwartet nicht zu viel. Sofern ihr nur mein Spiel spielen wollt und nicht meinen Code oder die einzelnen Sprites anschauen wollt, reicht es vollkommen wenn ihr euch den Game Odrner herunterladet.
+![](C:\projects\Game\Pictures\Capture.png)
+In Dem Ordner müsst ihr die Cat.exe Datei ausführen. Falls ihr euch fragt warum Cat, Cat war mein erster name fürs Spiel. Ihr könnt aber nicht nur die Cat Datei Herunterladen das wird nicht funktionieren, da die datei abhänig von anderen Dateien im Ordner ist. Ich hoffe ihr habt Spass am Spielen.
+
+## Wie Komme ich zum Spiel Code ? 
+Für die Jenigen die gerne mein Code und so weiter ansehen möchten, müssen nichts anderes machen als in den Assets ordner zu gehen, dort solltet ihr alles finden was ihr braucht. Wundert euch nicht wenn ihr ein code findet der keinen Sinn macht. Es kann sein das der Code auch einige Zeilen Dead Code hat. 
